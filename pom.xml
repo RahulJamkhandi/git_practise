@@ -103,7 +103,7 @@
 						<version>3.5.2</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>suite_regressionTest.xml</suiteXmlFile>
+								<suiteXmlFile>testng_RT.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
@@ -120,7 +120,7 @@
 						<version>3.5.2</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>suite_smokeTest.xml</suiteXmlFile>
+								<suiteXmlFile>testng_ST.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
